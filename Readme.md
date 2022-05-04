@@ -80,7 +80,7 @@ touch index.html
    It should open this file in the browser.
    You should see something like this.
 
-![](assignment-0/setup-0/images/screen_shot_1.png)
+![](assignment-0/images/screen_shot_1.png)
 
 4. Change `Hello, World!`, save and reload. You should see change.
 
@@ -100,7 +100,7 @@ npm init
 
 Keep hitting enter till you see...
 
-![](assignment-0/setup-0/images/screen_shot_2.png)
+![](assignment-0/images/screen_shot_2.png)
 
 Enter again and you are done.
 
@@ -120,7 +120,7 @@ npm install parcel --save-dev
 
 You will see that in your `package.json` file this section is added.
 
-![](assignment-0/setup-0/images/screen_shot_3.png)
+![](assignment-0/images/screen_shot_3.png)
 
 ### Add start command to `package.json` file
 
@@ -164,7 +164,7 @@ In the browser type the following
 
 You should see
 
-![](assignment-0/setup-0/images/screen_shot_4.png)
+![](assignment-0/images/screen_shot_4.png)
 
 # You are all set
 
