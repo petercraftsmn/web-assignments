@@ -1,7 +1,7 @@
 {
-  "name": "setup-0",
+  "name": "assignment-0",
   "version": "1.0.0",
-  "description": "",
+  "description": "Install dependencies",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

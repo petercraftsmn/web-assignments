@@ -134,7 +134,7 @@ Now you `package.json` file should look like this.
 
 ```json
 {
-  "name": "setup-0",
+  "name": "assignment-0",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
