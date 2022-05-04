@@ -1,2 +1,0 @@
-# Assignments
-Setup development environment
