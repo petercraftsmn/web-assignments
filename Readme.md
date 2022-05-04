@@ -5,7 +5,7 @@
 ## Install Node js
 
 We will install [Node.js®](https://nodejs.org/en/) Long Term Support (LTS) version.
-If you already have Node.js® installed make sure you have updated version 16.10 or higher.
+If you already have Node.js® installed, make sure your version is 16.10 or higher.
 
 1. Go to [Node.js®](https://nodejs.org/en/) website click [here](https://nodejs.org/en/).
 2. Click on [LTS version](https://nodejs.org/dist/v16.15.0/node-v16.15.0.pkg).
