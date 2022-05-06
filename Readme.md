@@ -57,7 +57,7 @@ cd src
 touch index.html
 ```
 
-# Let us create our firs website
+# Let us create our first website
 
 1. Open `assignment-0/src/index.html` file you have just created in code editor.
 
