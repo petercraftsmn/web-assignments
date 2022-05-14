@@ -1,4 +1,20 @@
+/*Element selector*/
 p {
     color: green;
     border: 2px solid red;
+}
+
+/*Id selector*/
+/*Id is unique*/
+#my-div {
+    color: blue;
+    border: 2px solid brown;
+    border-radius: 10px;
+}
+
+/*Class selector*/
+.my-class {
+    color: blueviolet;
+    border: 5px solid coral;
+    border-radius: 6px;
 }
